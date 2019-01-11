@@ -94,7 +94,7 @@ The following plugin properties can be additionally set:
 |gaugeRoot| -PgaugeRoot="/opt/gauge" | Path to gauge installation root|
 
 
-See gauge's [command line interface](http://getgauge.io/documentation/user/current/cli/index.html) for list of all flags that be used with **-PadditionalFlags** option.
+See gauge's [command line interface](https://manpage.gauge.org/) for list of all flags that be used with **-PadditionalFlags** option.
 
 ### Adding/configuring custom Gauge tasks
 It is possible to define new custom Gauge tasks by extending `GaugePlugin` class. It can be used to create/configure tasks specific for different environments. For example,
