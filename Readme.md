@@ -4,9 +4,15 @@
 [![License](http://img.shields.io/:license-gpl3-blue.svg)](https://www.gnu.org/licenses/gpl.txt)
 
 
-# Gauge Gradle Plugin
+# Gauge Gradle Plugin  [Repo Moved]
 
-Use the gauge-gradle-plugin to execute specifications in your [Gauge](http://getgauge.io) java project and manage dependencies using [Gradle](http://gradle.org//).
+## IMPORTANT - The repository has moved!
+
+This plugin development now takes place here - https://github.com/getgauge/gauge-gradle-plugin
+
+---
+
+Use the gauge-gradle-plugin to execute specifications in your [Gauge](https://gauge.org) java project and manage dependencies using [Gradle](http://gradle.org//).
 
 ### Using plugin in project
 
